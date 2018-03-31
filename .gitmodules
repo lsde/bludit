@@ -1,0 +1,6 @@
+[submodule "bl-themes/story"]
+	path = bl-themes/story
+	url = https://github.com/bludit-themes/story.git
+[submodule "bl-themes/clean-blog"]
+	path = bl-themes/clean-blog
+	url = https://github.com/bludit-themes/clean-blog.git
